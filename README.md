@@ -1,6 +1,6 @@
 # Hi there, I'm Claudio :wave:
 
-Originally from Napoli, Italy, I moved to Berlin and just completed a full stack web development course at Le Wagon. My goal is to become a good front-end developer so I'm currently deepening my knowledge on javascript, react and redux.
+Originally from Naples, Italy, I moved to Berlin and just completed a full stack web development course at Le Wagon. My goal is to become a good front-end developer so I'm currently deepening my knowledge on javascript, react and redux.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
